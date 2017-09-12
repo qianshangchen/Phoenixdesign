@@ -13,7 +13,7 @@ I have 3 reasons to choose this Website. Firstly, the website appearance is attr
 what it is about?
 NYC foodiverse is a data visualization experiment about inspection data and foursquare ratings for restaurants in nyc.
 
-how the interactive/online medium chosen was particularly conducive to the narrative (or wasn't)?
+how the interactive/online medium chosen was particularly conducive to the narrative?
 No, it wasn’t. Beacuase the web is just for showing a aquantity data of NY restaurants. 
 
 
