@@ -21,7 +21,6 @@ this template is written in markdown, you can read more about the [syntax here](
 
 ## IMAGE
 
-!git add firstassignment.png
-![What is Code](firstassignment.png)
+![What is Code](https://github.com/qianshangchen/Phoenixdesign/blob/master/firstassignment.png)
 
 **Source for graphic**: Ford, P., [_What is code?_](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/).
