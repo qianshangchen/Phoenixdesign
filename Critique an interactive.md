@@ -26,6 +26,7 @@ Since New Yorkers consider NYC as “center of the universe”, so I merged food
 ## RESOURCES
 
 * [Link to the NYC FOODIVERSE](https://jiahao01121.github.io/Restaurant_data_viz/second_draft_mar_25/index.html)
+* [Link to Website Asset](https://github.com/Jiahao01121/Restaurant_data_viz)
 
 ## IMAGE
 
