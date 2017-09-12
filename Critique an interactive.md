@@ -30,4 +30,4 @@ Since New Yorkers consider NYC as “center of the universe”, so I merged food
 
 ## IMAGE
 
-![The Home page](https://github.com/qianshangchen/Phoenixdesign/blob/master/assets/firstassignment.png)
+![The Home page](https://github.com/qianshangchen/Phoenixdesign/blob/master/Assets/firstassignment.png)
