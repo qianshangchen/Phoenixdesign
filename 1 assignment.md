@@ -1,7 +1,7 @@
-### 9/12/2017
-### Qianshang Chen (Phoenix)
-### Data Visualization
-### Critique an interactive
+### Date: 9/12/2017
+### Name: Qianshang Chen (Phoenix)
+### Name of the course: Data Visualization
+### The name of assignment: Critique an interactive
 
 ## 
 
